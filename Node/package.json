@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "mongoose": "^7.6.0"
+  }
+}
